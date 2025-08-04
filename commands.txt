@@ -1,3 +1,4 @@
 echo "this is a test command"
 echo "i added"
 echo "ths is my second file"
+bye
